@@ -16,6 +16,7 @@ public class PlayerMovment : MonoBehaviour
     {
         Vector3 moveDir = transform.right*Input.GetAxis("Horizontal") * movmentSpeed + transform.forward*Input.GetAxis("Vertical")*movmentSpeed;
         
+        rb.linearVelocity = moveDir;
         //This vector repesents where we want to go, our new direction
         
     }
