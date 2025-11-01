@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 78ab70d4265c8ae4b906d15dc164bfac
+guid: 12f77c7ca2943154b8c16cc3fe7e0e9f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4053884851587794908
-    second: spookyGrass_0
+      213: 513976297186211394
+    second: Soul 2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spookyGrass_0
+      name: Soul 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 3000
-        height: 1996
+        x: 79
+        y: 64
+        width: 146
+        height: 188
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 428b5c4b435bdb7c0800000000000000
-      internalID: -4053884851587794908
+      spriteID: 24631c818b2022700800000000000000
+      internalID: 513976297186211394
       vertices: []
       indices: 
       edges: []
@@ -161,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spookyGrass_0: -4053884851587794908
+      Soul 2_0: 513976297186211394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
