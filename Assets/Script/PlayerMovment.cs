@@ -11,8 +11,10 @@ public class PlayerMovment : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void  FixedUpdate()//This makes it run by game time
     {
+        new Vector3 moveDir = transform.right*Input.GetAxis("Horizontal") * movmentSpeed + transform.forward*Input.GetAxis("Vertical")*movmentSpeed;
+        //This vector repesents where we want to go, our new direction
         
     }
 }
